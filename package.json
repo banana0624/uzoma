@@ -1,0 +1,24 @@
+{
+  "name": "project-root",
+  "version": "1.0.0",
+  "description": "SL company name wity date 0624 and my name uzoma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banana0624/uzoma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/banana0624/uzoma/issues"
+  },
+  "homepage": "https://github.com/banana0624/uzoma#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
